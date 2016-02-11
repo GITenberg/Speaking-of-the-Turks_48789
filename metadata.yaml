@@ -1,0 +1,20 @@
+_repo: Speaking-of-the-Turks_48789
+creator:
+  author:
+    agent_name: Mufti-zada, K. Ziya, bey
+    gutenberg_agent_id: '44970'
+    url: http://www.gutenberg.org/2009/agents/44970
+description: ''
+gutenberg_issued: '2015-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Istanbul (Turkey) -- Description and travel'
+- !lcsh 'Istanbul (Turkey) -- Social life and customs'
+title: Speaking of the Turks
+url: http://www.gutenberg.org/ebooks/48789
